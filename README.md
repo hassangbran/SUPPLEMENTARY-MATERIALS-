@@ -1,5 +1,5 @@
 # SUPPLEMENTARY-MATERIALS-
-ntegration Gaps in Smart Indoor Lighting: A Systematic Bibliometric Review of Human-CentricControl, IoT, and Event-Driven Automation
+Integration Gaps in Smart Indoor Lighting: A Systematic Bibliometric Review of Human-CentricControl, IoT, and Event-Driven Automation
 
 # Supplementary Materials
 
